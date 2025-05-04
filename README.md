@@ -1,6 +1,11 @@
 ## 📦 Inventory Classification App — ABC & XYZ Analysis
 
 Welcome to the Inventory Classification App! This project combines **machine learning** and **inventory analytics** to classify products based on **ABC (value-based)** and **XYZ (demand variability)** analysis. Built with ❤️ using **Scikit-learn + Streamlit**.
+![image](https://github.com/user-attachments/assets/457555ef-2012-4775-b59d-a10341a5e538)
+![image](https://github.com/user-attachments/assets/33cdd733-b9dc-4bb6-a814-d6b9bf98cd71)
+![image](https://github.com/user-attachments/assets/c0a63abd-db7c-4fe4-8e7d-8812b5f1da3a)
+
+
 
 ---
 
@@ -64,6 +69,7 @@ streamlit run app/app.py
 ```
 
 Then open [http://localhost:8501](http://localhost:8501) in your browser.
+or you can check here : https://smart-stock-classifier-fglk3gkvuntesbf5dfdq8c.streamlit.app/
 
 ---
 
