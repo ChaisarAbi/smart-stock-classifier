@@ -28,8 +28,7 @@ Welcome to the Inventory Classification App! This project combines **machine lea
 📦 Inventory-op/
 ├── app/
 │   └── app.py              ← Streamlit app interface
-├── models/
-│   ├── abc_classifier.pkl  ← Trained ABC model
+|   ├── abc_classifier.pkl  ← Trained ABC model
 │   └── xyz_classifier.pkl  ← Trained XYZ model
 ├── data/
 │   └── final_engineered_inventory.csv ← Processed training data
